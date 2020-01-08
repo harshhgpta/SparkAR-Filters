@@ -1,0 +1,45 @@
+newmtl Vector Smart Object Front Inflation Material
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.200000 0.200000 0.200000
+Ns 6.062867
+d 1.000000
+Tr 0.000000
+map_Kd -s 0.997296 0.686518 1.0 -o 0.000519 0.270510 1.0 Vector Smart Object.PNG 
+
+newmtl Vector Smart Object Front Bevel Material
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.200000 0.200000 0.200000
+Ns 6.062867
+d 1.000000
+Tr 0.000000
+map_Kd -s 0.997296 0.686518 1.0 -o 0.000519 0.270510 1.0 Vector Smart Object.PNG 
+
+newmtl Vector Smart Object Extrusion Material
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.200000 0.200000 0.200000
+Ns 6.062867
+d 1.000000
+Tr 0.000000
+map_Kd Vector Smart Object Extrusion Material - Default Texture.PNG 
+
+newmtl Vector Smart Object Back Bevel Material
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.200000 0.200000 0.200000
+Ns 6.062867
+d 1.000000
+Tr 0.000000
+map_Kd -s 0.997296 0.686518 1.0 -o 0.000519 0.270510 1.0 Vector Smart Object.PNG 
+
+newmtl Vector Smart Object Back Inflation Material
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.200000 0.200000 0.200000
+Ns 6.062867
+d 1.000000
+Tr 0.000000
+map_Kd -s 0.997296 0.686518 1.0 -o 0.000519 0.270510 1.0 Vector Smart Object.PNG 
+
